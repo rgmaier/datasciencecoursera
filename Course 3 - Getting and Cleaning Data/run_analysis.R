@@ -7,5 +7,6 @@ course3 <- function(){
   trainSetY <- read.csv("y_train.txt", header=F)
   testSetY <- read.csv("y_test.txt", header=F)
   
-  features <- read.csv("features.txt", header=F, sep=" ")
+  features <- read.csv("features.txt", header=F, sep= " ")
+
 }
