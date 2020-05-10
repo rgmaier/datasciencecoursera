@@ -25,70 +25,137 @@ The dataframe "data" contains the same values as described below; however, at th
 Dataframe: step 5
 
  "Activity"                   Activity according to the underlying data frame in several groups (STANDING, SITTING, WALKING_DOWNSTAIRS, LAYING, WALKING_UPSTAIRS)
+ 
  "Subject"                    Integer indicating the person who completed the activity (1-30)
+ 
  "tBodyAcc-mean()-X"          Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAcc-mean()-Y"          Mean of the column by the two groups (DOUBLE) 
+ 
  "tBodyAcc-mean()-Z"          Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-mean()-X"       Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-mean()-Y"       Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-mean()-Z"       Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-mean()-X"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-mean()-Y"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-mean()-Z"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-mean()-X"         Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-mean()-Y"         Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-mean()-Z"         Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-mean()-X"     Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-mean()-Y"     Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-mean()-Z"     Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccMag-mean()"         Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAccMag-mean()"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerkMag-mean()"     Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroMag-mean()"        Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerkMag-mean()"    Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-mean()-X"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-mean()-Y"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-mean()-Z"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-mean()-X"      Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-mean()-Y"      Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-mean()-Z"      Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-mean()-X"         Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-mean()-Y"         Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-mean()-Z"         Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccMag-mean()"         Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyAccJerkMag-mean()" Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyGyroMag-mean()"    Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyGyroJerkMag-mean()"Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAcc-std()-X"           Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAcc-std()-Y"           Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAcc-std()-Z"           Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-std()-X"        Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-std()-Y"        Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAcc-std()-Z"        Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-std()-X"       Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-std()-Y"       Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerk-std()-Z"       Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-std()-X"          Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-std()-Y"          Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyro-std()-Z"          Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-std()-X"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-std()-Y"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerk-std()-Z"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccMag-std()"          Mean of the column by the two groups (DOUBLE)
+ 
  "tGravityAccMag-std()"       Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyAccJerkMag-std()"      Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroMag-std()"         Mean of the column by the two groups (DOUBLE)
+ 
  "tBodyGyroJerkMag-std()"     Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-std()-X"           Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-std()-Y"           Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAcc-std()-Z"           Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-std()-X"       Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-std()-Y"       Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccJerk-std()-Z"       Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-std()-X"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-std()-Y"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyGyro-std()-Z"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyAccMag-std()"          Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyAccJerkMag-std()"  Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyGyroMag-std()"     Mean of the column by the two groups (DOUBLE)
+ 
  "fBodyBodyGyroJerkMag-std()" Mean of the column by the two groups (DOUBLE)
